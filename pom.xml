@@ -198,7 +198,7 @@
             <!-- CLEANUP -->
 
             <!-- REVISION -->
-            <plugin>
+            <!-- <plugin>
                 <groupId>pl.project13.maven</groupId>
                 <artifactId>git-commit-id-plugin</artifactId>
                 <executions>
@@ -219,7 +219,7 @@
                         <includeOnlyProperty>^git.commit.id$</includeOnlyProperty>
                     </includeOnlyProperties>
                 </configuration>
-            </plugin>
+            </plugin> -->
             <!-- REVISION -->
 
             <!-- SHADING -->
